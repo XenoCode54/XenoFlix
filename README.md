@@ -5,5 +5,4 @@ A Simple Netflix Clone
 Made with Javascript, React, Axios and Firebase
 
 ## The Link
-Follow this link to the web app
-xenflix-1c991.web.app/
+[Click Here to go to the Xenflix Web App](https://xenflix-1c991.web.app)
